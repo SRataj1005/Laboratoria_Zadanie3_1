@@ -1,2 +1,8 @@
-Krzysztof 20
-Janusz 40
+Imię: Sebastian, Nazwisko: Rataj, Wiek: 20, Data urodzenia: 10.05.2001r.
+Imię: Marek, Nazwisko: Ciochociemny, Wiek: 15, Data urodzenia: 10.02.1992r.
+Imię: Sebastian, Nazwisko: Rataj, Wiek: 20, Data urodzenia: 10.05.2001r.
+Imię: Marek, Nazwisko: Ciochociemny, Wiek: 15, Data urodzenia: 10.02.1992r.
+Imię: Sebastian, Nazwisko: Rataj, Wiek: 20, Data urodzenia: 10.05.2001r.
+Imię: Marek, Nazwisko: Ciochociemny, Wiek: 15, Data urodzenia: 10.02.1992r.
+Imię: Sebastian, Nazwisko: Rataj, Wiek: 20, Data urodzenia: 10.05.2001r.
+Imię: Marek, Nazwisko: Ciochociemny, Wiek: 15, Data urodzenia: 10.02.1992r.
